@@ -4,15 +4,24 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![image](https://avatars.githubusercontent.com/u/11447901?){: style="text-align: center;
+  display: block;
+  max-width: 20%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 50%;
+  max-width: 40%;
+  margin: 0 auto;"
+}
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+---
+{: style="border-top: 1px solid #EEE;
+  margin: 25px auto;width: 30%;
+  text-align: center"
+}
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Hey!
+I'm Tushar Garg, a Senior Software Engineer with 7+ experience building web applications. I am currently working with [LocoNav India Private Limited](https://loconav.com/). Throughout my career, I have had the opportunity to work on a wide range of projects including hand to hand delievery of features, maintaning, optimizing the existing code.
 
+Over the years, I have developed a deep expertise in Ruby on Rails and related technologies. I am comfortable working with both front-end and back-end development, and I have a strong understanding of database design, RESTful APIs, and server deployment.
 
-[jekyll-organization]: https://github.com/jekyll
+Idea behind start writing is 'learn and share'. I write on topics who will helpful for others and myself also (kind of learning notes).
