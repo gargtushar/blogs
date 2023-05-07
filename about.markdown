@@ -20,7 +20,7 @@ permalink: /about/
 }
 
 ## Hey!
-I'm Tushar Garg, a Senior Software Engineer with 7+ experience building web applications. I am currently working with [LocoNav India Private Limited](https://loconav.com/). Throughout my career, I have had the opportunity to work on a wide range of projects including hand to hand delievery of features, maintaning, optimizing the existing code.
+I'm Tushar Garg, a Senior Software Engineer with 7+ experience building web applications. I am currently working with [LocoNav India Private Limited](https://loconav.com/). Throughout my career, I have had the opportunity to work on a wide range of projects including hand to hand delievery of features, maintaining, optimizing the existing code.
 
 Over the years, I have developed a deep expertise in Ruby on Rails and related technologies. I am comfortable working with both front-end and back-end development, and I have a strong understanding of database design, RESTful APIs, and server deployment.
 
